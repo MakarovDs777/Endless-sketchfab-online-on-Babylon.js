@@ -32,7 +32,7 @@
 
 [Endless sketchfab on Babylon.js (Version 7 - With an automatic switch button, and fields for the range of random switch) | Babylon.js Playground](https://playground.babylonjs.com/#WMZUW3#0)
 
-
+Ну и всё в приницпе мы получили бесконечный скечтфаб осталось только починить всякие мелочи вроде того что-бы при переклбчение на одну, и туже модель была одна, и та же модель что, и чем была раньше.
 
 [Endless sketchfab on Babylon.js (Version 8 - FULL version) | Babylon.js Playground](https://playground.babylonjs.com/#6JBWT3#0)
 
