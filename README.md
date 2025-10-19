@@ -40,4 +40,6 @@
 
 [Endless sketchfab on Babylon.js (Version 9 - The version with the model download and all possible changes to this model) | Babylon.js Playground](https://playground.babylonjs.com/#F7EZDH#1)
 
+Но нам не нужна бесконечная дорожка нам нужна локальная версия что-бы не лететь за миллиард киллометров что-бы найти что осмысленное давайте добавим поле для локальнолго выбора номера модели в этом бесконечном подиуме.
+
 [Endless sketchfab on Babylon.js (Version 10 - Version without endless podium only one podium with model number) | Babylon.js Playground](https://playground.babylonjs.com/#BNHYA4#0)
