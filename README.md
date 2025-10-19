@@ -20,17 +20,19 @@
 
 [Endless sketchfab on Babylon.js (Version 4 - Local version with input fields for the model) | Babylon.js Playground](https://playground.babylonjs.com/#DYVLK6#0)
 
-ЛДобавим к локальной версии кнопка случайно авто перемещения что-бы быстро переключаться на случайную OBJ моедль с опредленной скоростью.
+Добавим к локальной версии кнопка случайно авто перемещения что-бы быстро переключаться на случайную OBJ моедль с опредленной скоростью.
 
 [Endless sketchfab on Babylon.js (Version 5 - With the auto-switch button) | Babylon.js Playground](https://playground.babylonjs.com/#NF2G0G#0)
 
-Но нужно починить эту кнопку случайного перемещения что-бы вещественные числа работлаи и можно было переключятся за милисекунды времени.
+Но нужно починить эту кнопку случайного перемещения что-бы вещественные числа работали, и можно было переключятся за милисекунды времени.
 
 [Endless sketchfab on Babylon.js (Version 6 - With the auto-switch button FIXED version) | Babylon.js Playground](https://playground.babylonjs.com/#V1JEJB#0)
 
-
+Теперь нужно добавить диапазоны для случайного переключения от минимального до максимального диапазона vertex, и faces.
 
 [Endless sketchfab on Babylon.js (Version 7 - With an automatic switch button, and fields for the range of random switch) | Babylon.js Playground](https://playground.babylonjs.com/#WMZUW3#0)
+
+
 
 [Endless sketchfab on Babylon.js (Version 8 - FULL version) | Babylon.js Playground](https://playground.babylonjs.com/#6JBWT3#0)
 
