@@ -16,11 +16,15 @@
 
 [Endless sketchfab on Babylon.js (Version 3 - Serpentine paths) | Babylon.js Playground](https://playground.babylonjs.com/#K3VHFW#0)
 
-
+Теперь нужно сделать локальную версию что-бы сделать два поля для количества vertex, и faces что-бы переключатся на индивидульно выбранную случайно сгенерируванную OBJ моедль. 
 
 [Endless sketchfab on Babylon.js (Version 4 - Local version with input fields for the model) | Babylon.js Playground](https://playground.babylonjs.com/#DYVLK6#0)
 
+ЛДобавим к локальной версии кнопка случайно авто перемещения что-бы быстро переключаться на случайную OBJ моедль с опредленной скоростью.
+
 [Endless sketchfab on Babylon.js (Version 5 - With the auto-switch button) | Babylon.js Playground](https://playground.babylonjs.com/#NF2G0G#0)
+
+
 
 [Endless sketchfab on Babylon.js (Version 6 - With the auto-switch button FIXED version) | Babylon.js Playground](https://playground.babylonjs.com/#V1JEJB#0)
 
