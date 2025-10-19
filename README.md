@@ -1,8 +1,10 @@
 # Endless-sketchfab-online-on-Babylon.js
 
+Итак в нулевой версии я создал бесконечную процедурную чанковую генерацию по XYZ вы летите, и в каждом кусочке случайным образом сгенерированная модель OBJ из случайно сгенрированных в случайном в этом кубе vertex, и faces без повторов с другими моделями.
+
 [Endless sketchfab on Babylon.js (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#05DKC5#0)
 
-Итак в первой версии я создал бесконечную процедурную чанковую генерацию по XYZ вы летите, и в каждом кусочке случайным образом сгенерированная модель OBJ из случайно сгенрированных в случайном в этом кубе vertex, и faces без повторов с другими моделями.
+Но нам нужно как-то систематизировать свойства случайной генерации что-бы это был не хаос случайных точек и граней а что-то похожее на что-то осмысленное! 
 
 [Endless sketchfab on Babylon.js (Version 1 - Ordered generation) | Babylon.js Playground](https://playground.babylonjs.com/#X3PFLO#0)
 
@@ -13,6 +15,8 @@
 И теперь мы сделаем так что-бы размер куба для генерации случайной OBJ модели расширялся при каждой послежующей итерации...
 
 [Endless sketchfab on Babylon.js (Version 3 - Serpentine paths) | Babylon.js Playground](https://playground.babylonjs.com/#K3VHFW#0)
+
+
 
 [Endless sketchfab on Babylon.js (Version 4 - Local version with input fields for the model) | Babylon.js Playground](https://playground.babylonjs.com/#DYVLK6#0)
 
