@@ -36,6 +36,8 @@
 
 [Endless sketchfab on Babylon.js (Version 8 - FULL version) | Babylon.js Playground](https://playground.babylonjs.com/#6JBWT3#0)
 
+Осталось только внести финальный штрих в картину сделав какие нибудь опциональные версии например сделать кнопку в которую вы загружаете OBJ модель, и создает бесконечный подиум где при каждой последующей итерации модель выбранная изменят одну случайную vertex, и таким образом до бесконечности всевозможные перестановки она превращаются во что угодно что только может быть.
+
 [Endless sketchfab on Babylon.js (Version 9 - The version with the model download and all possible changes to this model) | Babylon.js Playground](https://playground.babylonjs.com/#F7EZDH#1)
 
 [Endless sketchfab on Babylon.js (Version 10 - Version without endless podium only one podium with model number) | Babylon.js Playground](https://playground.babylonjs.com/#BNHYA4#0)
