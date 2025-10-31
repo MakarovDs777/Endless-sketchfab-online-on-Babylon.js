@@ -8,7 +8,7 @@
 
 [Endless sketchfab on Babylon.js (Version 1 - Ordered generation) | Babylon.js Playground](https://playground.babylonjs.com/#X3PFLO#0)
 
-Теперь нужнро добавить телепорт что улететь далеко и увидеть если там чт-то похожее на что-то отличное хаоса бесконечного океана моделей.
+Теперь нужнро добавить телепорт что улететь далеко и увидеть если там что-то похожее на что-то отличное хаоса бесконечного океана моделей.
 
 [Endless sketchfab on Babylon.js (Version 2 - With the ability to teleport) | Babylon.js Playground](https://playground.babylonjs.com/#QP3FYQ#0)
 
