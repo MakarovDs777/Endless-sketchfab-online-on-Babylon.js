@@ -43,3 +43,7 @@
 Но нам не нужна бесконечная дорожка нам нужна локальная версия что-бы не лететь за миллиард киллометров что-бы найти что осмысленное давайте добавим поле для локальнолго выбора номера модели в этом бесконечном подиуме.
 
 [Endless sketchfab on Babylon.js (Version 10 - Version without endless podium only one podium with model number) | Babylon.js Playground](https://playground.babylonjs.com/#BNHYA4#0)
+
+Но что делать если я хочу сделать так что-бы только опредлененный набор vertex у модели измянляся а остальные vertex нет!? 
+
+[Endless sketchfab on Babylon.js (Version 11 - Version with a local vertex set change) | Babylon.js Playground](https://playground.babylonjs.com/?inspectorv2=true#HW8N5J)
