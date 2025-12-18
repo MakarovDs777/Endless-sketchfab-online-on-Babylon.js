@@ -43,3 +43,7 @@
 Но нам не нужна бесконечная дорожка нам нужна локальная версия что-бы не лететь за миллиард киллометров что-бы найти что осмысленное давайте добавим поле для локальнолго выбора номера модели в этом бесконечном подиуме.
 
 [Endless sketchfab on Babylon.js (Version 10 - Version without endless podium only one podium with model number) | Babylon.js Playground](https://playground.babylonjs.com/#BNHYA4#0)
+
+Бесконечно процедурно генерируемый наборы изурфейса XYZ версия.
+
+[Endless sketchfab on Babylon.js (Version 11 - Isurface version) | Babylon.js Playground](https://playground.babylonjs.com/#GFZKYN)
