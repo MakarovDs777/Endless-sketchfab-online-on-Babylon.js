@@ -47,3 +47,7 @@
 Бесконечно процедурно генерируемый наборы изурфейса XYZ версия.
 
 [Endless sketchfab on Babylon.js (Version 11 - Isurface version) | Babylon.js Playground](https://playground.babylonjs.com/#GFZKYN)
+
+Бесконечный подиум изурфейсов без повторов X версия.
+
+[Endless sketchfab on Babylon.js (Version 12 - Isurface X version) | Babylon.js Playground](https://playground.babylonjs.com/#4XNJ82#1)
