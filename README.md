@@ -55,3 +55,7 @@
 Бесконечный подиум изурфейсов без повторов X подиум XYZ маски.
 
 [Endless sketchfab on Babylon.js (Version 13 - Isurface X podium XYZ musks version) | Babylon.js Playground](https://playground.babylonjs.com/#IOWOLM)
+
+Бесконечно процедурно генерируемый наборы изурфейса XYZ версия + Кнопк скачивание все прогруженных изурфейсов + Табло телепортации.
+
+[Endless sketchfab on Babylon.js (Version 14 - Isurface version + Download button + Teleport XYZ tables) | Babylon.js Playground](https://playground.babylonjs.com/#HFKB28#1)
