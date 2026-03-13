@@ -59,3 +59,7 @@
 Бесконечно процедурно генерируемый наборы изурфейса XYZ версия + Кнопк скачивание все прогруженных изурфейсов + Табло телепортации.
 
 [Endless sketchfab on Babylon.js (Version 14 - Isurface version + Download button + Teleport XYZ tables) | Babylon.js Playground](https://playground.babylonjs.com/#HFKB28#1)
+
+Теперь нужно сделать локальный генератор в заданном диапазоне для каждого числа каждого vertex, и faces.
+
+[Endless sketchfab on Babylon.js(Version 15-A random OBJ generator for each vertex, and faces with a range of generation) | Babylon.js Playground](https://playground.babylonjs.com/#9VFOX7)
