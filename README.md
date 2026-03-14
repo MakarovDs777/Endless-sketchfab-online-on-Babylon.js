@@ -12,15 +12,15 @@
 
 [Endless sketchfab on Babylon.js (Version 2 - With the ability to teleport) | Babylon.js Playground](https://playground.babylonjs.com/#QP3FYQ#0)
 
-И теперь мы сделаем так что-бы размер куба для генерации случайной OBJ модели расширялся при каждой послежующей итерации...
+И теперь мы сделаем так что-бы размер куба для генерации случайной OBJ модели расширялся при каждой последующей итерации...
 
 [Endless sketchfab on Babylon.js (Version 3 - Serpentine paths) | Babylon.js Playground](https://playground.babylonjs.com/#K3VHFW#0)
 
-Теперь нужно сделать локальную версию что-бы сделать два поля для количества vertex, и faces что-бы переключатся на индивидульно выбранную случайно сгенерируванную OBJ моедль. 
+Теперь нужно сделать локальную версию что-бы сделать два поля для количества vertex, и faces что-бы переключатся на индивидульно выбранную случайно сгенерированную OBJ модель. 
 
 [Endless sketchfab on Babylon.js (Version 4 - Local version with input fields for the model) | Babylon.js Playground](https://playground.babylonjs.com/#DYVLK6#0)
 
-Добавим к локальной версии кнопка случайно авто перемещения что-бы быстро переключаться на случайную OBJ моедль с опредленной скоростью.
+Добавим к локальной версии кнопка случайно авто перемещения что-бы быстро переключаться на случайную OBJ модель с опредленной скоростью.
 
 [Endless sketchfab on Babylon.js (Version 5 - With the auto-switch button) | Babylon.js Playground](https://playground.babylonjs.com/#NF2G0G#0)
 
